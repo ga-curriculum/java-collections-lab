@@ -2,21 +2,13 @@
 
 ## Setup
 
-Open your Terminal application and navigate to your `~/code/ga/labs` directory:
+Open your Terminal application and navigate to a directory of your choice. For example, you can navigate to `~/labs`:
 
 ```bash
-cd ~/code/ga/labs
+cd ~/labs
 ```
 
-<!-- tktk if starter code exists -->
-
 Fork the [[tktk Repo Name]](https://git.generalassemb.ly/modular-curriculum-all-courses/[tktk Repo Name]) repository.
-
-<!-- tktk if starting from scratch  -->
-
-Make a new repository on [GitHub](https://github.com/) named [tktk Repo Name].
-
-<!-- tktk -->
 
 Clone a copy of your remote repo locally by using the `git clone` command:
 
@@ -33,8 +25,4 @@ Next, `cd` into your new cloned directory, `[tktk Repo Name]`:
 cd [tktk Repo Name]
 ```
 
-Open the project's folder in your code editor:
-
-```bash
-code .
-```
+Open IntelliJ IDEA Community Edition and open the project by selecting the `Open` option and navigating to the `[tktk Repo Name]` directory.

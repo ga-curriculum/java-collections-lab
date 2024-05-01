@@ -2,7 +2,9 @@
 
 ## About
 
-tktk Write a short but descriptive summary of the content in this module. Introduce the lab. What will the students build in this lab?
+In this lab, you'll be completing a series of three challenge problems involving data collections. These problems are similar to what you would see in an interview, so this is great practice. Think through each problem before you start creating code, possibly writing out pseudocode if it will help you. Run your code against the included test cases when you're finished.
+
+**Feel free to look up any Java documentation to help you (i.e., arrays, Lists, and others). Although you can find the solutions on the internet, it's to your benefit to try solving these problems on your own.**
 
 ## Prerequisites
 
@@ -14,30 +16,16 @@ Estimated time to complete core lab exercise: **tktk min**
 
 ## Starter code
 
-tktk If there is not a starter code repo that students will fork and clone to start this lab, then this section and all of its content should be removed.
-
-🟢 [Starter code](#tktk-repository-for-starter-code)
+🟢 [Starter code](https://git.generalassemb.ly/modular-curriculum-all-courses/java-collections-lab-starter-code)
 
 ## Content
 
 - [Setup](./setup/README.md)
 - [Exercise](./exercise/README.md)
 
-## Level Up
-
-🚀 [Level Up](./level-up/README.md) tktk - remove section if no level ups exist.
-
 ## Solution code
 
-🏁 [tktk Solution code](#tktk-external-repo-link-url)
-
-## Deployed sites
-
-tktk If there is not a deployed site related to this module this section and all of its content should be removed.
-
-🌐 [Live site](#tktk-deployed-app-url)
-
-🐙 [Repository](#tktk-repository-for-deployed-app)
+🏁 [Solution code](https://git.generalassemb.ly/modular-curriculum-all-courses/java-collections-lab-solution)
 
 ## Internal resources
 
