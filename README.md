@@ -1,4 +1,4 @@
-# ![[tktk Module Name]](./assets/tktk-hero.png)
+# ![[tktk Module Name]](./assets/collections-lab.png)
 
 ## About
 
@@ -8,11 +8,11 @@ In this lab, you'll be completing a series of three challenge problems involving
 
 ## Prerequisites
 
-- tktk
+- Java Arrays and Array Lists Module
 
 ## Time to complete
 
-Estimated time to complete core lab exercise: **tktk min**
+Estimated time to complete core lab exercise: **90 min**
 
 ## Starter code
 
@@ -29,7 +29,6 @@ Estimated time to complete core lab exercise: **tktk min**
 
 ## Internal resources
 
-✏️ [Instructor Guide](./internal-resources/instructor-guide.md)
 
 🏗️ [Release Notes](./internal-resources/release-notes.md)
 
