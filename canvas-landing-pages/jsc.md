@@ -6,9 +6,6 @@ In this lab, you'll be completing a series of three challenge problems involving
 
 **Feel free to look up any Java documentation to help you (i.e., arrays, Lists, and others). Although you can find the solutions on the internet, it's to your benefit to try solving these problems on your own.**
 
-## Time to complete
-
-Estimated time to complete core lab exercise: **90 min**
 
 ## Starter code
 
