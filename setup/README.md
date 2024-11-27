@@ -11,9 +11,7 @@ Open your Terminal application and navigate to your <code class="filepath">~/cod
 cd ~/code/ga/labs
 ```
 
-Clone the [Java Collections Lab starter code](https://git.generalassemb.ly/modular-curriculum-all-courses/java-collections-lab-starter) repository.
-
-Clone a copy of your remote repo locally by using the `git clone` command:
+Clone the [Java Collections Lab starter code](https://git.generalassemb.ly/modular-curriculum-all-courses/java-collections-lab-starter) repository with this command:
 
 ```bash
 git clone https://git.generalassemb.ly/modular-curriculum-all-courses/java-collections-lab-starter.git java-collections-lab
