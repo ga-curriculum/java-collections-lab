@@ -14,9 +14,3 @@ Feel free to look up any Java documentation for help. Although you can find the 
 
 - [Setup](./setup/README.md)
 - [Exercise](./exercise/README.md)
-
-## Level Up
-
-tktk If there is no Level Up content for this lab, then this section and all of its content should be removed.
-
-🚀 [Level Up](./level-up/README.md) tktk - remove section if no level ups exist.
