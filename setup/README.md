@@ -5,7 +5,7 @@
 
 ## Setup
 
-Open your Terminal application and navigate to a directory of your <code class="filepath">~/code/ga/labs</code> directory.
+Open your Terminal application and navigate to your <code class="filepath">~/code/ga/labs</code> directory.
 
 ```bash
 cd ~/code/ga/labs
