@@ -12,5 +12,5 @@ Feel free to look up any Java documentation for help. Although you can find the 
 
 ## Content
 
-- [Setup](./setup/README.md)
-- [Exercise](./exercise/README.md)
+- [Setup](../setup/README.md)
+- [Exercise](../exercise/README.md)
