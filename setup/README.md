@@ -11,10 +11,10 @@ Open your Terminal application and navigate to your <code class="filepath">~/cod
 cd ~/code/ga/labs
 ```
 
-Clone the [Java Collections Lab starter code](https://git.generalassemb.ly/modular-curriculum-all-courses/java-collections-lab-starter) repository with this command:
+Clone the [Java Collections Lab starter code](https://github.com/ga-curriculum/java-collections-lab-starter) repository with this command:
 
 ```bash
-git clone https://git.generalassemb.ly/modular-curriculum-all-courses/java-collections-lab-starter.git java-collections-lab
+git clone https://github.com/ga-curriculum/java-collections-lab-starter.git java-collections-lab
 ```
 
 > 💡 The `java-collections-lab` at the end of this command will place the contents of the `java-collections-lab-starter` repo into a directory named <code class="filepath">java-collections-lab</code>.
